@@ -15,7 +15,7 @@ jobs:
       PYTHON: ${{ matrix.python-version }}
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
 
     - name: Setup uv
       uses: astral-sh/setup-uv@v7
