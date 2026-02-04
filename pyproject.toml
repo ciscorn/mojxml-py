@@ -4,7 +4,6 @@ version = "0.5.4"
 description = 'A tool for fast conversion of Japanese "MOJ Map XML" (land registration polygons) into geospatial formats.'
 authors = [
     { name = "Taku Fukada", email = "naninunenor@gmail.com" },
-    { name = "MIERUNE Inc.", email = "info@mierune.co.jp" },
 ]
 readme = "README.md"
 license = "MIT"
