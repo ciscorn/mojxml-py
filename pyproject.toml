@@ -23,8 +23,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/MIERUNE/mojxml-py"
-Repository = "https://github.com/MIERUNE/mojxml-py"
+Homepage = "https://github.com/ciscorn/mojxml-py"
+Repository = "https://github.com/ciscorn/mojxml-py"
 
 [project.scripts]
 mojxml2ogr = 'mojxml.__main__:main'
